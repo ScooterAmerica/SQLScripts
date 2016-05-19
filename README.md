@@ -11,3 +11,6 @@ A Collection of SQL Scripts and Stored Procedures I've written over the years.
 
 #### Fixing Orphaned Users after a DB Restore
 	Finds and generates the statements needed to remap users to logins after a db restore
+
+#### Schema/Role Transfer
+	Allows you to easily transfer schemas or database roles to a different user
